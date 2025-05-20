@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Flashcards_Library")(type "KiCad")(uri "${KIPRJMOD}/Flashcards_Library.kicad_sym")(options "")(descr ""))
+)
